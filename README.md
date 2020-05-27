@@ -1,3 +1,3 @@
 # RODRP-CAD-Idea
 
-TESTING changes and hw to use this software
+TESTING changes and how to use this software
